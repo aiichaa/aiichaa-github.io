@@ -1,3 +1,3 @@
 # Portfolio
 
-Url, [click here](https://aiichaa.github.io/portfolio/).
+Url, [click here](https://aiichaa.github.io)
